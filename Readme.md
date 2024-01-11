@@ -9,4 +9,3 @@ Gostou do Curso? Quer mais? Ajude com uma doação.
 ds
 
 Manda pix pra mim
-a

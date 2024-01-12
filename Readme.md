@@ -1,7 +1,5 @@
 # Git course
 
-Teste Git Revert
-
 Este é um repositório para ensinar como um Git funciona.i
 
 Saiba mais no link [teste] (https://teste.com.br)
